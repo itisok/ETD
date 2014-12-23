@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textview_start_gradient">#ffffff</color>
+    <color name="textview_end_gradient">#FF0011C7</color>
+    <color name="textview_shadow">#ff674125</color>
+</resources>
